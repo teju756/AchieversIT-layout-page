@@ -1,0 +1,2351 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://www.achieversit.com/assets/css/main.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://www.achieversit.com/assets/css/drop-a-query.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" href="https://www.achieversit.com/assets/images/favicon.jpg">
+	<title>AchieversIT Layout</title>
+	<style>
+	.heading{
+        padding-left: 8px;
+        font-family: 'Arial Narrow Bold';
+        font-size: x-large;
+    }
+    .heading1{
+        padding-left: 15px;
+        font-family: 'Arial Narrow Bold';
+        font-size: x-large;
+    }
+    .heading2{
+        padding-left: 15px;
+        font-family: 'Arial Narrow Bold';
+        font-size: x-large;
+    }
+    .Review{
+        padding-left: 15px;
+        font-family: 'Arial Narrow Bold';
+        font-size: x-large;
+    }
+    .Edge{
+        padding-left: 15px;
+        font-family: 'Arial Narrow Bold';
+        font-size: x-large;
+    }
+    .Trainer{
+        padding-left: 15px;
+        font-family: 'Arial Narrow Bold';
+        font-size: x-large;
+    }
+    .Process{
+        padding-left: 15px;
+        font-family: 'Arial Narrow Bold';
+        font-size: x-large;
+    }
+    .Corpoprate{
+        padding-left: 15px;
+        font-family: 'Arial Narrow Bold';
+        font-size: x-large;
+    }
+	</style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark main-nav">
+	<a class="navbar-brand" href="https://www.achieversit.com/"><img src="https://www.achieversit.com/assets/images/AIT-white.jpg"alt="image1" width="205px" height="100px"></a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+		<ul class="navbar-nav ml-auto mt-2 mt-lg-0  border-x-none">
+			<li class="nav-item">
+				<a class="nav-link" href="https://www.achieversit.com/corporate-training-page.html">Corporate Training </a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="https://www.achieversit.com/placement-page.html">Placements Page</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="https://www.achieversit.com/reviews.html">Reviews</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link " href="https://www.achieversit.com/blogs">Blog</a>
+			</li>
+		</ul>
+	</div>
+</nav>
+<header id="secondary_head" class="secondary-head sticky-top b-shadow" id="secondary_head">
+	<span id="button-menu" class="btn-open"><i class="fas fa-bars font-20 text-lightgrey"></i>
+
+		<span class="text-lightgrey fl">Courses</span>
+	</span>
+	<div class="d-inline-block hidden-xs hidden-sm secondary-nav secondary-links">
+
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/ui-development-training-course-institute-in-bangalore">UI Development </a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/angular-training-course-institute-in-bangalore">Angular </a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/react-training-training-course-institute-in-bangalore">ReactJS</a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/vuejs-training-course-institute-in-bangalore">VUEJS</a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/mean-training-course-institute-in-bangalore">MEAN</a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/mern-training-course-institute-in-bangalore">MERN</a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/digital-marketing-training-course-in-bangalore">Digital Marketing</a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/python-training-course-institute-in-bangalore">Python</a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/ionic-training-course-institute-in-bangalore">IONIC</a></span>
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/react-native-training-course-institute-in-bangalore">React Native</a></span>
+	
+		<span><a class="font-17 pad-15" href="https://www.achieversit.com/web-dev-training-course-institute-in-bangalore">WEB DEV</a></span>
+	</div>
+	
+	<nav class="navegacion b-shadow" id="nav_courses">
+		<ul class="menu">
+			<li class="title-menu">Courses List</li>
+					<li class="item-submenu" menu="1">
+							<a href="#">Front end courses<span class="pull-right"><i class="fas fa-angle-right"></i></span>
+							</a>
+							<ul class="submenu">
+								<li class="title-menu">
+									<span class=" icon-menu"></span>Front end courses</li>
+								<li class="go-back"><span><i class="fas fa-angle-left"></i></span> Back</li>
+					               <li><a href="https://www.achieversit.com/react-training-training-course-institute-in-bangalore">React JS</a></li>
+									<li><a href="https://www.achieversit.com/ui-development-training-course-institute-in-bangalore">User Interface Development</a></li>
+									<li><a href="https://www.achieversit.com/vuejs-training-course-institute-in-bangalore">Vue JS</a></li>
+									<li><a href="https://www.achieversit.com/angular-training-course-institute-in-bangalore">Angular Development</a></li>
+									<li><a href="https://www.achieversit.com/web-dev-training-course-institute-in-bangalore">Web Development</a></li>
+			    	</ul>
+						</li>
+							<li class="item-submenu" menu="2">
+							<a href="#">Full stack courses<span class="pull-right"><i class="fas fa-angle-right"></i></span>
+							</a>
+							<ul class="submenu">
+								<li class="title-menu">
+									<span class=" icon-menu"></span>Full stack courses</li>
+								<li class="go-back"><span><i class="fas fa-angle-left"></i></span> Back</li>
+								<li><a href="https://www.achieversit.com/python-training-course-institute-in-bangalore">Python</a></li>
+								<li><a href="https://www.achieversit.com/mean-training-course-institute-in-bangalore">MEAN</a></li>
+								<li><a href="https://www.achieversit.com/fullstack-training-course-institute-in-bangalore">Full Stack Development</a></li>
+								<li><a href="https://www.achieversit.com/mern-training-course-institute-in-bangalore">MERN</a></li>
+							</ul>
+						</li>
+							<li class="item-submenu" menu="3">
+							<a href="#">Mobile Application Development<span class="pull-right"><i class="fas fa-angle-right"></i></span>
+							</a>
+							<ul class="submenu">
+								<li class="title-menu">
+									<span class=" icon-menu"></span>Mobile Application Development</li>
+								<li class="go-back"><span><i class="fas fa-angle-left"></i></span> Back</li>
+									<li><a href="https://www.achieversit.com/ionic-training-course-institute-in-bangalore">Ionic</a></li>
+									<li><a href="https://www.achieversit.com/react-native-training-course-institute-in-bangalore">React Native</a></li>
+							</ul>
+
+						</li>
+									<li class="item-submenu" menu="4">
+							<a href="#">Cloud Computing	<span class="pull-right"><i class="fas fa-angle-right"></i></span>
+							</a>
+							<ul class="submenu">
+								<li class="title-menu">
+									<span class=" icon-menu"></span>Cloud Computing	</li>
+								<li class="go-back"><span><i class="fas fa-angle-left"></i></span> Back</li>
+									<li><a href="https://www.achieversit.com/aws-training-course-institute-in-bangalore">AWS </a></li>
+									<li><a href="https://www.achieversit.com/devops-training-in-bangalore">DevOps</a></li>
+								</ul>
+
+						</li>
+									<li class="item-submenu" menu="5">
+							<a href="#">Digital Marketing Courses<span class="pull-right"><i class="fas fa-angle-right"></i></span>
+							</a>
+							<ul class="submenu">
+								<li class="title-menu">
+									<span class=" icon-menu"></span>Digital Marketing Courses</li>
+								<li class="go-back"><span><i class="fas fa-angle-left"></i></span> Back</li>
+								    <li><a href="https://www.achieversit.com/seo-engine-marketing-in-bangalore">Search Engine Optimization</a></li>
+									<li><a href="https://www.achieversit.com/digital-marketing-training-course-in-bangalore">Digital Marketing</a></li>
+									<li><a href="https://www.achieversit.com/social-media-marketing-course-institute-in-bangalore">Social Media Marketing </a></li>
+								</ul>
+						</li>
+					</ul>
+	</nav>
+</header>
+    <div id="class" class="carousel slide homebanner-1" data-ride="carousel">
+    	<ol class="carousel-indicators">
+    		<li data-target="#class" data-slide-to="0" class="active"></li>
+    		<li data-target="#class" data-slide-to="1"></li>
+    		<li data-target="#class" data-slide-to="2"></li>
+    		<li data-target="#class" data-slide-to="3"></li>
+    		<li data-target="#class" data-slide-to="4"></li>
+    	</ol>
+    	<div class="carousel-inner">
+    		<div class="carousel-item active item1">
+    			<div class="carousel-caption d-md-block">
+    				<h1 class="heads">ANGULAR DEVELOPMENT COURSE</h1>
+    				<a class="btn btn-orangered bradius-0 pad-10 " href="angular-training-course-institute-in-bangalore">EXPLORE COURSE</a>
+    			</div>
+    		</div>
+    		<div class="carousel-item item2">
+
+    			<div class="carousel-caption  d-md-block">
+    				<h1 class="heads">REACTJS DEVELOPMENT COURSE</h1>
+    				<a class="btn btn-orangered bradius-0 pad-10" href="react-training-training-course-institute-in-bangalore">EXPLORE COURSE</a>
+    			</div>
+    		</div>
+    		<div class="carousel-item item3">
+    			<div class="carousel-caption  d-md-block">
+    				<h1 class="heads">PYTHON DEVELOPMENT COURSE</h1>
+    				<a class="btn btn-orangered bradius-0 pad-10" href="python-training-course-institute-in-bangalore">EXPLORE COURSE</a>
+    			</div>
+    		</div>
+    		<div class="carousel-item item4">
+    			<div class="carousel-caption  d-md-block">
+    				<h1 class="heads">AMAZON WEB SERVICES COURSE</h1>
+    				<a class="btn btn-orangered bradius-0 pad-10" href="digital-marketing-training-course-in-bangalore">EXPLORE COURSE</a>
+    			</div>
+    		</div>
+    		<div class="carousel-item item5">
+    			<div class="carousel-caption d-md-block">
+    				<h1 class="heads">WEB DEVELOPMENT COURSE</h1>
+    				<a class="btn btn-orangered bradius-0 pad-10" href="https://www.achieversit.com/web-dev-training-course-institute-in-bangalore">EXPLORE COURSE</a>
+    			</div>
+    		</div>
+    	</div>
+    	<a class="carousel-control-prev" href="#class" role="button" data-slide="prev">
+    		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    		<span class="sr-only">Previous</span>
+    	</a>
+    	<a class="carousel-control-next" href="#class" role="button" data-slide="next">
+    		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+    		<span class="sr-only">Next</span>
+    	</a>
+    </div>
+   
+
+    <div class="col-md-12 padLR-75 no-padding pad-xs20 pad-sm-20 home-sm">
+    	<div class="col-md-12 homecards-1 pad-xs-0 font-xs-12">
+    		<div class="row">
+    			<div class="col-lg- 4 col-md-4 col-12 card_light_box c-1 ">
+    				<a href="ui-development-training-course-institute-in-bangalore">
+    					<span class="text text-lightgrey" data-position="1">BECOME A <br>
+							<b class="text-black">UIDEVELOPER</b><br></span>
+    					<span class="knowmoretxt text-blue font-bold">Know More <i class="fas fa-angle-right"></i></span>
+    				</a>
+    			</div>
+    			<div class="col-lg-4 col-md-4 col-12 card_light_box c-2">
+    				<a href="angular-training-course-institute-in-bangalore">
+    					<span class="text text-lightgrey" data-position="2">BECOME A<br>
+							 <b class="text-black"> ANGULARDEVELOPER </b></span>
+    					<span class="knowmoretxt text-blue font-bold">Know More <i class="fas fa-angle-right"></i></span>
+    				</a>
+    			</div>
+    			<div class="col-lg-4 col-md-4 col-12 card_light_box c-3">
+    				<a href="react-training-training-course-institute-in-bangalore">
+    					<span class="text text-lightgrey" data-position="3">BECOME A <br>
+							<b class="text-black">REACTJDEVELOPER</b></span>
+    					<span class="knowmoretxt text-blue font-bold">Know More <i class="fas fa-angle-right"></i></span>
+    				</a>
+    			</div>
+    		</div>
+    	</div>
+
+		<div class="heading">
+            <h2>TRENDING COURSES</h2>
+		</div>
+		
+    	
+    	<div class=" trending-cards d-flex trend1">
+    		<div class="row">
+               <!-- CARD 1 -->
+				<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card">
+    					<a href="https://www.achieversit.com/angular-training-course-institute-in-bangalore">
+							<div class="pad-10 bg-grade-f text-white no-pad-B">
+    							<div class="row">
+    								<div class="col-md-3  trend-card-head "> <span><i class="fab fa-angular font-60 font-sm-50"></i></span></div>
+    								<div class="col-9 pad-15-20">
+    									<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h4><strong>ANGULAR<br><span>DEVELOPMENT</span><br><span>COURSE</span></strong>
+    									</h4>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">
+    									Angular is popular for making dynamic applications and its information official and reliance infusion includes altogether lessen the measure of code that should be composed. It is being utilized broadly by devlopers for building web, mobile and other applications. Angular is released by Google and it has huge community to help in terms of bug fixes and other issues.
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white">
+    								<div class="trend-card-reviews text-black">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 5.0
+    									</span>
+										<span> (257)</span>
+    								</div>
+    							</div>
+    						</div>
+						<!-- Animation -->
+    						<div class="card-description pad-25">
+    							<p class=" mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h6 class=" text-white">In 5 Days - 15th Jun</h6>
+    							<p class=" mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Introduction to Angular
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Why Angular
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Understanding Angular Versions
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Typescript & ES6
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Power odd Types
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Explore Functions
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Classes
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Interfaces
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Modules, Decorators, Components...</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="https://www.achieversit.com/angular-training-course-institute-in-bangalore" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+    				</div>
+    			</div>
+    		
+				<!-- CARD 2 -->
+    			<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card">
+    					<a href="https://www.achieversit.com/react-training-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-g text-white no-pad-B">
+    							<div class="row">
+    								<div class="col-md-3 trend-card-head "> <span><i class="fab fa-react   font-60 font-sm-50"></i></span></div>
+    								<div class=" col-9 pad-15-20 ">
+    									<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h4><strong>REACT<br><span>DEVELOPMENT</span><br><span>COURSE</span></strong>
+    									</h4>
+
+    								</div>
+    							</div>
+    						</div>
+					
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h7 class="text-black justify text-ellipsis font-12">
+    									Achievers IT React JS Certification Course in Bangalore. We teach you detailed explanations of JSX, Unidirectional data flow and Flux, Components etc. Our instructor-led training to understand and build React components and structure applications with Redux.
+    								</h7>
+    							</div>
+    							<div class="card-footer bg-white">
+    								<div class="trend-card-reviews text-black">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 5.0
+    									</span><span> (292)</span>
+    								</div>
+    							</div>
+    						</div>
+					<!-- Animation -->
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										ES6 Primer
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Introduction to React
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Templatinng using JSX
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										It's all about components
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Working with state and props
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Rendering lists
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Event handling in React & more.
+    									</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="https://www.achieversit.com/react-training-training-course-institute-in-bangalore" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+    				</div>
+    			</div>
+
+    			<!--CARD 3-->
+				
+    			<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card ">
+    					<a href="https://www.achieversit.com/mean-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-e text-white no-pad-B">
+    							<div class="row">
+    								<div class="col-md-3 trend-card-head"> <span><i class="fas fa-shield-alt   font-60 font-sm-50"></i></span></div>
+    								<div class="col-9 pad-15-20 ">
+										<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller"> 
+    									<h4>
+    										<strong>
+    											MEAN STACK<br>
+    											<span>DEVELOPMENT</span><br>
+    											<span>COURSE</span>
+    										</strong>
+    									</h4>
+    								</div>
+    							</div>
+    						</div>
+					<!-- Animation -->
+					
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">
+    									"MEAN Stack Front To Back". In this course we will build an in depth full stack social network application using Angular, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application.
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white">
+    								<div class="trend-card-reviews text-black">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.5
+    									</span><span> (196)</span>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h6 class="font-bold text-white">In 5 Days - 15th Jun</h6>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 text-white">
+    										Mongo DB
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white">
+    										Express js
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white">
+    										Angular
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white">
+    										Node.js
+    									</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="https://www.achieversit.com/mean-training-course-institute-in-bangalore" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+					</div>
+    			</div>
+
+    			<!--CARD 4-->
+
+    			<div class="col-md-3  pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card ">
+    					<a href="https://www.achieversit.com/mern-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-d text-white no-pad-B">
+    							<div class="row">
+    								<div class=" col-3 pad-15-20  trend-card-head "> <span><i class="fas fa-fire-alt   font-60 font-sm-50"></i></span></div>
+    								<div class=" col-9 pad-15-20 ">
+    									 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller"> 
+    									<h4>
+    										<strong>
+    											MERN STACK<br>
+    											<span>DEVELOPMENT</span><br>
+    											<span>COURSE</span>
+    										</strong>
+    									</h4>
+    								</div>
+    							</div>
+    						</div>
+					<!-- Animation -->
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">
+    									"MERN Stack Front To Back". In this course we will build an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. We will start with a blank text editor and end with a deployed full stack application.
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white">
+    								<div class="trend-card-reviews text-black">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.5
+    									</span><span> (192)</span>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Mongo DB
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Express js
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Angular
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Node.js
+    									</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="https://www.achieversit.com/mern-training-course-institute-in-bangalore" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+					</div>
+    			</div>
+    			<!--CARD 5-->
+    			<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card ">
+    					<a href="https://www.achieversit.com/web-dev-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-c text-white no-pad-B">
+    							<div class="row">
+    								<div class=" col-3 pad-15-20  trend-card-head "> <span><i class="fas fa-globe font-60 font-sm-50"></i></span></div>
+    								<div class=" col-9 pad-15-20 ">
+    									<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h4><strong>WEB<br><span>DEVELOPMENT</span><br><span>COURSE</span></strong></h4>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">
+    									With AchieversIT’s UI development course in bangalore, you will be able to master the concepts such as CSS3, CSS, HTML, JavaScript, Bootstrap, HTML5, JQuery, Angular/ReactJS etc. We will also provide you with real-time projects to work on and this will enhance your skills and experience. Complete your dream of working for top multinational companies.Below are the benifits from top UI Development training institute in Bangalore.
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white">
+    								<div class="trend-card-reviews text-black">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 5.0
+    									</span><span> (312)</span>
+    								</div>
+    							</div>
+    						</div>
+					<!-- Animation -->
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Basics Of Web Development Traning in Bangalore
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5 ">
+    										Course Objectives
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										HTML 4 & Older Versions
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										HTML 5 & Overview.
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										CSS2 & CSS3
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Javascript, Advanced Javascript, Jquery & more..
+    									</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="https://www.achieversit.com/web-dev-training-course-institute-in-bangalore" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a> 
+					</div>
+    			</div>
+    			<!--CARD 6-->
+    			<div class="col-md-3 no-padding pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card ">
+    					<a href="https://www.achieversit.com/digital-marketing-training-course-in-bangalore">
+    						<div class="pad-10 bg-grade-b text-white no-pad-B">
+    							<div class="row">
+    								<div class="col-3 pad-15-20 trend-card-head "> <span><i class="fas fa-poll   font-60 font-sm-50"></i></span></div>
+    								<div class=" col-9 pad-15-20 ">
+    									<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h4><strong>DIGITAL<br><span>MARKETING</span><br><span>COURSE</span></strong>
+    									</h4>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">
+    									The future for digital marketing is promising, and its scope in the upcoming future is that it may replace all other standard forms of marketing soon. Benefits such as enhancing brand loyalty, reaching out to a wider audience, reducing associated costs, gaining customer trust have ensured that it has become a mandatory part of all marketing strategies. On the off chance that you need to make your career in the Digital Marketing industry, at that point this is the correct course for you. From learning the basics of Digital promoting, for example, SEO and Web Analytics to the more explicit structures, for example, Mobile, E-mail, and Content, this broad expert instructing gives you the correct stage to learn in a vivid and adaptable manner.
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white">
+    								<div class="trend-card-reviews text-black">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.8
+    									</span><span> (178)</span>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Introduction to Digital Marketing
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										SEO 1: Keyword Planning and On-Page Optimization
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										SEO 2: Off-Page Optimization
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Search Engine Marketing: Google Ads
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Email Marketing
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Affiliate Marketing(Self-Paced)
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Social Media Marketing 1: Facebook and Instagram
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Social Media Marketing 2: YouTube
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Social Media Marketing 2: Twitter and LinkedIn & more..
+    									</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="https://www.achieversit.com/digital-marketing-training-course-in-bangalore" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a></div>
+    			</div>
+    			<!---card 7 -->
+    			<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card">
+    					<a href="https://www.achieversit.com/react-native-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-f text-white no-pad-B">
+    							<div class="row">
+    								<div class=" col-3 pad-15-20 trend-card-head "> <span><i class="fab fa-react   font-60 font-sm-50"></i></span></div>
+    								<div class="col-9 pad-15-20 ">
+    									<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h4>
+    										<strong>REACT NATIVE<br>
+    											<span>DEVELOPMENT</span><br>
+    											<span>COURSE</span>
+    										</strong>
+    									</h4>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">Full Stack development is
+    									defined as the development of both the front end and back end sides of a web
+    									application. A full-stack developer works with both the ends of a website or an
+    									application, which implies they handle an entire project includes databases and
+    									debugging of the web project. </h4>
+    							</div>
+    							<div class="card-footer bg-white">
+    								<div class="trend-card-reviews text-black">
+    									<h4><i>Reviews</i></h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.6
+    									</span><span> (175)</span>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 text-white">Various types of Full stack.</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white">Understanding the Front-end technology stack.</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white">Understanding Back end technology stack.</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white">
+    										Various Database types & more...</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="javascript:void(0);" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+					</div>
+    			</div>
+    	<!--CARD 8-->
+    			<div class="col-md-3 no-padding pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card ">
+    					<a href="https://www.achieversit.com/ionic-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-a text-white no-pad-B">
+    							<div class="row">
+    								<div class=" col-3 pad-25  trend-card-head " style="display:flex;align-items:center;padding:15px"> <span><i class="fab fa-bity font-60 font-sm-50"></i></span></div>
+    								<div class="col-9 pad-15-20">
+    									 <img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h4><strong>IONIC<br><span>DEVELOPMENT</span><br><span>COURSE</span></strong></h4>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">
+    									Ionic 4 & Ionic 5 that you can immediately
+    									implement to build high quality apps. Our course covers a wide variety of topics from increasing app
+    									performance, to building custom native plugins, to securing your apps. It's a practical, hands-on experience
+    									that will take your app-building skills to the next level.
+
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white">
+    								<div class="trend-card-reviews text-black">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.6
+    									</span><span> (179)</span>
+    								</div>
+    							</div>
+    						</div>
+				<!-- Animation -->
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										About the course.
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Course objectives
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										Who should go for AWS Course?
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 text-white pad-5">
+    										What are the pre-requisites for AWS Course?
+    									</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="javascript:void(0);" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+					</div>
+    			</div>
+    		</div>
+    	</div>
+		<div class="heading1">
+            <h2>RECENT ADDITIONS</h2>
+		</div>
+    <!-- card 9 -->
+    	<!-- <div class="col-md-12 recent-additions-cards mTB-50"> -->
+    		<!-- <h3 class="padLR-10 text-xs-center pad-sm-0"><strong class="know-us-font">RECENT ADDITIONS </strong></h3> -->
+    		<hr class="hidden-md visible-xs">
+    		<div class="row">
+    			<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card ">
+    					<a href="https://www.achieversit.com/ui-development-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-d text-white no-pad-B">
+    							<div class="row">
+    								<div class=" pad-15-20 col-3 trend-card-head "><span><i class="fab fa-uikit font-60 font-sm-50"></i></span> </div>
+    								<div class=" pad-15-20 col-9">
+										<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h4><strong>UI<br><span>DEVELOPMENT</span><br><span>COURSE</span></strong>
+    									</h4>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">UI development course in bangalore, you will be able to master the concepts such as CSS3, CSS, HTML, JavaScript, Bootstrap, HTML5, JQuery, Angular/ReactiS etc.We will give training on real time projects and this will improve your skills and experience. Complete your dream about working for top MNC Companies. Below are the benefits from top UI Development Training institute in Bangalore
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white text-black">
+    								<div class="trend-card-reviews">
+    									<h4 class="text-black">Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.6
+    									</span><span> (192)</span>
+    								</div>
+    							</div>
+    						</div>
+			<!-- Animation -->
+    						<div class="card-description pad-20 text-white">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">HTML 5 & Overview</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">CSS2 & CSS3</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Javascript</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Advanced Javascript</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Jquery</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">AJAX</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Complete Bootstrap</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Angular - 2, 4, 5, 6, 7, 8 versions</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="javascript:void(0);" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+					</div>
+    			</div>
+	<!-- card 10 -->
+    			<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card ">
+    					<a href="https://www.achieversit.com/vuejs-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-c text-white no-pad-B">
+    							<div class="row">
+    								<div class="pad-15-20  col-3 trend-card-head "><span><i class="fab fa-vuejs font-60 font-sm-50"></i></span> </div>
+    								<div class="pad-15-20  col-9">
+										<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h4><strong>VUEJS<br><span>DEVELOPMENT</span><br><span>COURSE</span></strong></h4>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">VueJs framework that is gaining a reputation as being a lightweight alternative to different framework and
+    									libraries Vuejs is a progressive JavaScript framework with a library to build interactive web interfaces
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white text-black">
+    								<div class="trend-card-reviews">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.3
+    									</span><span> (146)</span>
+    								</div>
+    							</div>
+    						</div>
+		<!-- Animation -->
+    						<div class="card-description pad-20 text-white">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Introduction to Vue.js</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Working with Template & viewmodel</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Working with forms & two way binding</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Introduction to components</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Vue Instance Revisited</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Custom directives</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">State Management</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Understanding Mutations</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Unit testing</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">What are the pre-requisites for this Vue Certification Training?</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="javascript:void(0);" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+					</div>
+    			</div>
+  <!-- card 11 -->
+    			<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10">
+    				<div class="trend-card ">
+    					<a href="#">
+    						<div class="pad-10 bg-grade-b text-white no-pad-B">
+    							<div class="row">
+    								<div class=" col-3 trend-card-head "><span><i class="fab fa-wordpress font-60 font-sm-50"></i></span> </div>
+    								<div class=" pad-15-20 col-9">
+    									<img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller">
+    									<h5><strong>WORDPRESS<br><span>DEVELOPMENT</span><br><span>COURSE</span></strong>
+    									</h5>
+    								</div>
+    							</div>
+    						</div>
+		<!-- Animation -->
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">WordPress Certification Training
+    									Course in Bangalore is one of the best training programs by well-experienced software professionals.
+    									WordPress is considered as a robust content management system that allows users to manage directly
+    									published content. We Provide the best services for website development, CRM software, Drupal,
+    									WordPress, Codeigniter Development.
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white text-black">
+    								<div class="trend-card-reviews">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.6
+    									</span><span> (184)</span>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h6 class="font-bold text-white">In 5 Days - 15th Jun</h6>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Introduction CMS And WordPress
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5  pad-5">User Administration</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5  pad-5">WordPress Themes</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5  pad-5">Working with Widgets</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5  pad-5">Working with Menu for your Website</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5  pad-5">Working with Menu for your Website</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5  pad-5">WordPress Plugins</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5  pad-5">WordPress Settings</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5  pad-5">WordPress Backup</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="javascript:void(0)" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+					</div>
+    			</div>
+   <!-- card 12 -->
+    			<div class="col-md-3 pad-20 pad-xs-0 col-sm-4 pad-sm-10 ">
+    				<div class="trend-card ">
+    					<a href="https://www.achieversit.com/python-training-course-institute-in-bangalore">
+    						<div class="pad-10 bg-grade-a text-white no-pad-B">
+    							<div class="row">
+    								<div class="col-md-3 pad-15-20 pad-sm-10-15 col-3 trend-card-head "><span><i class="fab fa-python font-60 font-sm-50"></i></span> </div>
+    								<div class="col-md-9 pad-15-20 pad-sm-10-15 col-9">
+    								    <img src="https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1591965497/img/best-seller-min.svg" alt="best seller online training" class="bestseller"> 								
+											<h4><strong>PYTHON<br><span>DEVELOPMENT</span><br><span>COURSE</span></strong>
+    									</h4>
+    								</div>
+    							</div>
+    						</div>
+		<!-- Animation -->
+    						<div class="card border-n bradius-0">
+    							<div class="card-body pad-15">
+    								<h4 class="text-black justify text-ellipsis font-12">
+    									Big data, Machine Learning and Data Science using Python programming certification course authorize every one to study data science approach from basics. This Python Course will also help you genius necessary Python programming approach such as object-oriented programming , file operations data operations, and also various Python libraries such as Pandas, Numpy, Matplotlib which are important for Data Science. Python Certification Training course is also a gateway towards your Data Science profession.
+    								</h4>
+    							</div>
+    							<div class="card-footer bg-white text-black">
+    								<div class="trend-card-reviews">
+    									<h4>Reviews</h4>
+    									<span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span><span> 4.8
+    									</span><span> (237)</span>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="card-description pad-20">
+    							<p class="font-12 mbottom-5 text-white"><i>Next Batch</i></p>
+    							<h4 class="font-bold text-white">In 5 Days - 15th Jun</h4>
+    							<p class="font-12 mbottom-5 text-white"><i>What Will I Learn ?</i></p>
+    							<ul class="text-white">
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Overview of Python</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">The Companies using Python</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">Different Applications where Python is used</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">
+    										Discuss Python Scripts on UNIX/Windows
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">
+    										Values, Types, Variables
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">
+    										Operands and Expressions
+    									</p>
+    								</li>
+    								<li>
+    									<p class="font-12 mbottom-5 pad-5">
+    										Conditional Statements & more..
+    									</p>
+    								</li>
+    							</ul>
+    							<div class="text-center">
+    								<a href="https://www.achieversit.com/python-training-course-institute-in-bangalore" class="btn btn-viewdetails ">VIEW DETAILS</a>
+    							</div>
+    						</div>
+    					</a>
+					</div>
+    			</div>
+    		</div>
+    	</div>
+    	
+		<div class="heading2">
+            <h2>Discover Top Categories</h2>
+		</div>
+
+    	<hr class="hidden-md visible-xs">
+    	<div class="col-md-12 no-padding-lr discover-categories pad-25-125 pad-xs-0 pad-sm-0">
+    		<div class="row">
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fab fa-dev font-50 text-orangered"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>
+    								DevOps</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fas fa-laptop-code font-50 text-indigo"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10">
+    							<strong>Front-End</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fas fa-mobile-alt font-50 text-cyan"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Mobile App
+    								Dev</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fas fa-funnel-dollar font-50 text-blue"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Digital
+    								Marketing</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="far fa-file-code  font-50 text-orange"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Program &
+    								Frame Works</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fas fa-database  font-50 text-light-blue"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Data
+    								Types</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fas fa-chalkboard-teacher  font-50 text-light-green"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Software
+    								Testing</strong></span>
+    					</a></div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fab fa-jsfiddle  font-50 text-red"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Cloud
+    								Computing</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fas fa-mask   font-50 text-light-blue"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Cyber
+    								Security</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fas fa-mobile-alt  font-50 text-red"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Artificial
+    								Intelligence</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fab fa-python font-50 text-light-green"></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10">
+    							<strong>Python</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    			<div class="col-md-2 col-4 pad-20 pad-xs-10 pad-sm-10">
+    				<div class="b-shadow discover-content">
+    					<a class="card border-n text-center pad-10">
+    						<span class="card-body font_icons no-padding padT-5"><i class="fab fa-codepen text-indigo font-50 "></i></span>
+    						<span class="card-footer border-n bg-white  no-padding font-12 padTB-10"> <strong>Big
+    								Data</strong></span>
+    					</a>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+
+		<div class="Review">
+            <h2>Reviews</h2>
+		</div>
+    <!-- Reviews -->
+    	<div id="class" class="carousel slide home-reviews mB-50" data-ride="carousel">
+    		<ol class="carousel-indicators">
+    			<li data-target="#class" data-slide-to="0" class="active"></li>
+    			<li data-target="class" data-slide-to="1"></li>
+    			<li data-target="#class" data-slide-to="2"></li>
+    		</ol>
+    		<div class="carousel-inner">
+    			<div class="container">
+    				<div class="carousel-item active">
+    					<div class="row">
+    						<div class="col-md-4 col-12 pad-10">
+    							<div class="card border-n b-shadow">
+    								<div class="card-head pad-20 bg-grade-a">
+    									<div class="row">
+    										<div class="col-md-3 text-center col-3 ">
+    											<h1><b>M</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Mallika M</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10">
+    									<p class="mbottom-0 text-ellipsis-2">Angular Certification Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse1" aria-expanded="false">
+    											I had recently attended the Angular js Training in AchieversIT, I must say they were outstanding. They made sure everything was right from the start of the workshop till the end. All the doubts were cleared plus execution was done on the spot after the explanation.They are totally worth the 5 stars. Good team! Good work!😊
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse1" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="col-md-4 col-12 pad-10">
+    							<div class="card border-n b-shadow">
+    								<div class="card-head pad-20 bg-grade-b">
+    									<div class="row">
+    										<div class="col-md-3 text-center col-3">
+    											<h1><b>L</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Lakshmi Bhaskar Reddy</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10">
+    									<p class="mbottom-0 text-ellipsis-2">Digital Marketing Certification Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse2" aria-expanded="false">
+    											AchieversIT provides an excellent way to learn from professional trainers. I have just completed my Digital Marketing course. The courses are well-structured.The trainers are subject matter experts that connect to students effectively and are good at answering your questions. I would highly recommend AchieversIT to anyone who appreciates structured courses. The support team provides excellent service, too. Keep up the superb work AchieversIT team.
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="col-md-4 col-12 pad-10 ">
+    							<div class="card border-n  b-shadow">
+    								<div class="card-head pad-20 bg-grade-c">
+    									<div class="row">
+    										<div class="col-md-3 text-center col-3">
+    											<h1><b>K</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Kiran CSN</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10">
+    									<p class="mbottom-0 text-ellipsis-2">Angular , React and Ionic Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse3" aria-expanded="false">
+    											It’s really good institutions where they have good trainers and materials are also good. They are not only providing quality training but their internal team is also good in providing support. I did three trainings Angular,React and Ionic from this institute and gained lots of Knowledge which helped to get good Job.
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="carousel-item ">
+    					<div class="row">
+    						<div class="col-md-4 col-12 pad-10">
+    							<div class="card border-n b-shadow">
+    								<div class="card-head pad-20 bg-grade-d">
+    									<div class="row">
+    										<div class="col-md-3 text-center col-3">
+    											<h1><b>L</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Lijarani swain</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10">
+    									<p class="mbottom-0 text-ellipsis-2">UI Development Certification Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse4" aria-expanded="false">
+    											Its really a great institute for learning UI development course. Trainer is very supportive & also helped me a lot to get detailed information regarding the key concepts and challenging tasks in real time.Best part of the training is there is not only a theoretical class but also practical real time scenarios of live projects. AchieversIT is providing also placement opportunities. I strongly recommend AchieversIT for UI Development training in Bangalore.
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="col-md-4 col-12 pad-10">
+    							<div class="card border-n b-shadow">
+    								<div class="card-head pad-20 bg-grade-e">
+    									<div class="row">
+    										<div class="col-md-3 text-center col-3 ">
+    											<h1><b>K</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Koti Nukani</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10">
+    									<p class="mbottom-0 text-ellipsis-2">UI & Fullstack Certification Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse5" aria-expanded="false">
+    											Trainer has provided all the required details and documentation to understand and learn about Ui Development with following technologies HTML,CSS,Javascript, jquery, ajax, json,bootstrap , typescript and Angular.Mr Murali has an excellent way of explaining the topics and has provided right information for all queries.We learn not only technologies from him but also techniques to resolve problems on the fly. Thanks to AchieversIT for such wonderfull training, i would recommend my friends, collegues if any one looking out for a bright career. Special thanks to Murali Sir.
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse5" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="col-md-4 col-12 pad-10">
+    							<div class="card border-n b-shadow">
+    								<div class="card-head pad-20 bg-grade-c">
+    									<div class="row">
+    										<div class="col-md-3 text-center col-3">
+    											<h1><b>A</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Anantha Raja</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10">
+    									<p class="mbottom-0 text-ellipsis-2">ReactJS Certification Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse6" aria-expanded="false">
+    											Perfect place to learn Angular and ReactJS class room Training, very helpful to my career. The course content is good and informative. I impressed by their practical sessions which help me to get Job, I suggest AchieversIT would be the best institute to take Angular and React Course. Thanks to AchieversIT team
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="carousel-item">
+    					<div class="row">
+    						<div class="col-md-4 col-12 pad-10">
+    							<div class="card border-n b-shadow">
+    								<div class="card-head pad-20 bg-grade-g">
+    									<div class="row">
+    										<div class="col-md-3 text-center col-3">
+    											<h1><b>Y</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Yuvananda</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10">
+    									<p class="mbottom-0 text-ellipsis-2">Ui & Angular Certification Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse7" aria-expanded="false">
+    											Attended UI Development training and Angular Training and very impressed by the trainer Mr. Murali and his excellent method of explaining concepts theoretically and practically. He did not limit himself with just training but definitely made us all better developers by sharing real time experiences. The end to end process, from enquiring about the course till completion was seamless. Thank you for all the support!
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse7" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="col-md-4 col-12 pad-10">
+    							<div class="card border-n b-shadow">
+    								<div class="card-head pad-20 bg-grade-c">
+    									<div class="row">
+    										<div class="col-md-3 text-center  col-3">
+    											<h1><b>A</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Ashish Sekhar</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10   ">
+    									<p class="mbottom-0 text-ellipsis-2">ReactJS Certification Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse8" aria-expanded="false">
+    											I enrolled for Angular and React js training session conducted by AchieversIT ,It was a great learning experience and wonderful training sessions From Mr Murali and Muniraj. I’m enlightened with the quality and process they delivered. Their exceptional teaching has gained me great confidence to kick start my career to next level. Overall, it was a tremendous knowledge transfer experience.
+    											Once again, I thank him for their continuous support, patience, timely help. I should also thankfull to AchieversIT for providing fabulous trainers and support during the classes.
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse8" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    						<div class="col-md-4 col-12 pad-10">
+    							<div class="card border-n b-shadow">
+    								<div class="card-head pad-20 bg-grade-d">
+    									<div class="row">
+    										<div class="col-md-3 text-center col-3">
+    											<h1><b>D</b></h1>
+    										</div>
+    										<div class="col-md-9 m-auto col-9 d-flex-center">
+    											<h5 class="font-bold text-white text-uppercase text-ellipsis-2">Dwarak Reddy</h5>
+    										</div>
+    									</div>
+    								</div>
+    								<div class="card-body padLR-20 padTB-10 pad-sm-10">
+    									<p class="mbottom-0 text-ellipsis-2">UI & Angular Certification Training</p><span class="review-icons text-yellow"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></span>
+    								</div>
+    								<div class="card-footer bg-white border-n">
+    									<div id="module">
+    										<p class="collapse mbottom-0" id="collapse9" aria-expanded="false">
+    											Hi,I am Dwaraka from BTech(Mechanical) background looking out for UI Development with Angular , node and Mysql. I found AchieversIT Training institute in BTM and enrolled here. I am happy that i am getting pratical as well as live project training with expert guidance by Murali Sir. He is supporting me to understand each and every topic in details and helping me in the practical part. Now i have a confident that i can build any application without any body support . Thank You AchieversIT team and special thanks to Murali sir for his great support .
+    										</p>
+    										<a role="button" class="collapsed" data-toggle="collapse" href="#collapse9" aria-expanded="false" aria-controls="collapseExample"></a>
+    									</div>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    		<a class="carousel-control-prev" href="class" role="button" data-slide="prev">
+    			<span class="card-toggle-btns"><i class="fas fa-chevron-left" aria-hidden="true"></i></span>
+    			<span class="sr-only">Previous</span>
+    		</a>
+    		<a class="carousel-control-next" href="#homeReviewsIndicator" role="button" data-slide="next">
+    			<span class="card-toggle-btns"><i class="fas fa-chevron-right" aria-hidden="true"></i></span>
+    			<span class="sr-only">Next</span>
+    		</a>
+    	</div>
+
+    	<div class="text-center pad-10 mTB-50 mB-xs-10 mB-sm-0"> 
+    		<a href="https://www.google.com/search?q=achieversit&rlz=1C1CHBF_enIN883IN883&oq=achieversit&aqs=chrome..69i57j46j69i60l6.8108j1j7&sourceid=chrome&ie=UTF-8#" class="m-auto font-bold" target="_blank">
+				VIEW ALL REVIEWS <i class="fas fa-chevron-right" aria-hidden="true"></i> </a>
+    	</div> 
+    </div> 
+    <div class="col-md-12 no-padding-lr text-center bg-grade-blue mTB-50 pad-25 mT-xs-0 mT-sm-0 ">
+    	<h4 class="font-bold text-white pad-10 line-h-1 know-us-font">
+			Enroll, Learn, Grow, Repeat! Get ready to achieveyour learning goals with Acheivers IT
+    	</h4>
+    	<a class="btn-white" onclick="contactus('Contact Us')"> <b> CONTACT US </b></a>
+    </div>
+	
+	<div class="Edge">
+	    <h4>Acheivers IT Edge</h4>
+	</div>
+    	<div class="row pad-xs20  min-xs-h150">
+    		<div class="col-md-3 col-6 text-center pad-10  mB-xs-10">
+    			<div class="b-xs-shadow pad-xs-5 min-xs-h150">
+    				<div class="pad-15 pad-xs-10"><i class="fas fa-check-circle svg-inline--fa1 font-65 font-xs-45"></i>
+    				</div>
+    				<h5 class="font-bold font-xs-15">Real Time Doubt Resolution</h5>
+    				<h6 class="font-xs-12">With Live Instructors</h6>
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 text-center pad-10  mB-xs-10">
+    			<div class="b-xs-shadow pad-xs-5 min-xs-h150">
+    				<div class="pad-15 pad-xs-10"><i class="fas fa-infinity svg-inline--fa3  font-65 font-xs-45"></i>
+    				</div>
+    				<h5 class="font-bold font-xs-15">Real Time Doubt Resolution</h5>
+    				<h6 class="font-xs-12">With Live Instructors</h6>
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 text-center pad-10  mB-xs-10">
+    			<div class="b-xs-shadow pad-xs-5 min-xs-h150">
+    				<div class="pad-15 pad-xs-10 text-grade-a">
+    					<h1 class="svg-inline--fa2 mbottom-0 font-xs-45" style="font-size: 54px;">24/7</h1>
+    				</div>
+    				<h5 class="font-bold font-xs-15">Real Time Doubt Resolution</h5>
+    				<h6 class="font-xs-12">With Live Instructors</h6>
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 text-center pad-10  mB-xs-10">
+    			<div class="b-xs-shadow pad-xs-5 min-xs-h150">
+    				<div class="pad-15 pad-xs-10"><i class="fas fa-chart-line svg-inline--fa4 font-65 font-xs-45"></i>
+    				</div>
+    				<h5 class="font-bold font-xs-15">Real Time Doubt Resolution</h5>
+    				<h6 class="font-xs-12">With Live Instructors</h6>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+   
+    <div class="col-md-12 we-top pad-30  text-center text-blue mTB-30 ">
+    	<h1 class="font-bold font-xs-25 course-titles"><b>Why We are on TOP 1</b></h1>
+    	<h6 class=" para"><h6>More people train with AcheiversIT because of ourcommitment to quality, Placement Support,
+			 and Real-time Training.</h6>
+    	<div class="col-md-12 padLR-75 we-top-cards mT-30 pad-xs-0 pad-sm-0">
+    		<div class="row">
+    			<div class="col-md-3 col-12 pad-10 text-center  we-top-cards-1">
+    				<div class="we-top-content c-1  pad-30-20 b-shadow pad-sm-20">
+    					<h5 class="font-50 font-sm-25"><strong>135 +</strong></h5>
+    					<h6 class="text-lightgrey font-sm-12">TRENDING COURSES</h6>
+    				</div>
+    			</div>
+    			<div class="col-md-3 col-12 pad-10 text-center  we-top-cards-1">
+    				<div class="we-top-content c-2 pad-20 b-shadow pad-sm-10">
+    					<h2 class="font-50 font-sm-25"><strong>60 +</strong></h2>
+    					<h6 class="text-lightgrey font-sm-12">IT Companies are tied-UP to hire our trained students</h6>
+    				</div>
+    			</div>
+    			<div class="col-md-3 col-12 pad-10 text-center   we-top-cards-1">
+    				<div class="we-top-content c-1  pad-20 b-shadow pad-sm-10">
+    					<h2 class="font-50 font-sm-25"><strong>25 +</strong></h2>
+    					<h6 class="text-lightgrey font-sm-12">Students attend Interviews every day through our PlacementCell</h6>
+    				</div>
+    			</div>
+    			<div class="col-md-3 col-12 pad-10 text-center we-top-cards-1">
+    				<div class="we-top-content c-2  pad-20 b-shadow pad-sm-10">
+    					<h2 class="font-50 font-sm-25"><strong>3 +</strong></h2>
+    					<h6 class="text-lightgrey font-sm-12">Of our students Get Jobs every day in Bangalore and India</h6>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+    <div class="Trainer">
+		<h2>Our Trainers From</h2>
+	</div>
+
+    
+    <div class="container">
+    	<div class="row">
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-20">
+    				<img src="https://www.achieversit.com/assets/images/php_development_training.png" style="width: 80%" alt="cognizant">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-30">
+    				<img src="https://www.achieversit.com/assets/images/ui_Development_training.png" alt="cognizant">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-30">
+    				<img src="https://www.achieversit.com/assets/images/angualr_development_training.png" alt="hcl">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-30">
+    				<img src="https://www.achieversit.com/assets/images/aws_development_training.png" alt="accenture">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-20">
+    				<img src="https://www.achieversit.com/assets/images/boostrap_development%20.png" alt="oracle">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-30">
+    				<img src="https://www.achieversit.com/assets/images/react_development_training.png" alt="ibm">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-30">
+    				<img src="https://www.achieversit.com/assets/images/software_development_training.png" alt="amazon">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-30">
+    				<img src="https://www.achieversit.com/assets/images/software_training_courses.png" alt="visa">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20 hidden-pro">
+    			<div class=" trainer-company b-shadow text-center" style="padding: 20px;">
+    				<img src="https://www.achieversit.com/assets/images/python_development_traning.png" style="width: 80%" alt="wipro">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-30">
+    				<img src="https://www.achieversit.com/assets/images/web_development_training.png" alt="flipkart">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6 pad-20">
+    			<div class=" trainer-company b-shadow text-center pad-30">
+    				<img src="https://www.achieversit.com/assets/images/angularjs_training.png" alt="dell">
+    			</div>
+    		</div>
+    		<div class="col-md-3 col-6   pad-20 hidden-pro">
+    			<div class=" trainer-company b-shadow text-center" style="padding: 20px;">
+    				<img src="https://www.achieversit.com/assets/images/angular_training.png" alt="genpact" style="width: 80%">
+    			</div>
+    		</div>
+    	</div>
+    </div>
+</div>
+<div class="Process">
+	<h2>AchieversIT Process</h2>
+</div>
+         <div class="img"><img src="https://www.achieversit.com/assets/images/process.jpg"alt ="image1" width="1300px" height="855px">
+	</div>
+	
+    <div class="col-md-12 latest-openings padLR-75 pad-xs20 pad-sm-20">
+    	<h3 class="padLR-10 mB-10 text-xs-center mB-xs-10 mb-sm-0"><strong class="know-us-font">Latest Job Openings
+    		</strong></h3>
+    	<hr class="hidden-md visible-xs">
+    	<div class="row">
+    		<div class="col-md-6  pad-sm-10">
+    			<div class="col-md-12 pad-20 col-12 pad-xs-0 mB-xs-20 pad-sm-10 ">
+    				<div id="accordion" class="accordion">
+    					<div class="card mbottom-0 border-n b-shadow">
+    						<div class="card-header collapsed  border-n pad-20 pad-sm-10" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+    							<a class="card-title text-white font-20 font-sm-15">
+    								<h4> <strong>Front End Developer - Angular js,Nodejs</strong></h4>
+    							</a>
+    							<h6 class="card-title text-white  mbottom-0 font-sm-12">Location : <span>Bangalore</span></h6>
+    						</div>
+    						<div id="collapse1" class="card-body collapse pad-sm-0" data-parent="#accordion">
+    							<ul class="job text-lightgrey">
+    								<li>
+    									<strong>Roles and Responsibilities : </strong>
+    									<br>
+    									A front-end web developer is responsible for implementing visual elements that users see and
+    									interact with in a web application. have to supported by back-end web developers, who are
+    									responsible for server-side application logic and integration of the work front-end developer....
+    								</li>
+    								<li>
+    									<strong> Desired Candidate Profile : </strong><br>
+    									Front End Developer 4-10 yrs Angular js Nodejs, 2+ years of exp on Angular and 1+ years of exp on NodeJS
+    								</li>
+
+
+
+                    <li>
+    									<strong>Experience : </strong>4 to 10 years.
+    								</li>
+    								<li>
+    									<strong>Skill set : </strong>HTML,CSS,JAvascript,Angular, Nodejs.<br><strong>Notice Period: </strong>15 days to 30 days
+    								</li>
+    							</ul>
+    						</div>
+    					</div>
+    				</div>
+    		    </div>
+    			<div class="col-md-12 pad-20 col-12 pad-xs-0 mB-xs-20 pad-sm-10">
+    				<div id="accordion" class="accordion">
+    					<div class="card mbottom-0 border-n b-shadow">
+    						<div class="card-header collapsed border-n pad-20 pad-sm-10" data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+    							<a class="card-title text-white font-20 font-sm-15">
+    								<h4><strong>UI Developer - AngularJS Frameworks</strong></h4>
+										</a>
+    							<h6 class="card-title text-white  mbottom-0 font-sm-12">Location : <span>Bangalore</span></h6>
+    						</div>
+    						<div id="collapse2" class="card-body collapse pad-sm-0" data-parent="#accordion">
+    							<ul class="job text-lightgrey">
+    								<li>
+    									<strong>Role :</strong> Angular Developer with Javascript
+    									<br>
+    									<strong>Note :</strong> immediate joiner would be great.
+    									<br>
+    									<strong>Job Responsibilities :</strong>
+    									<p>
+    										- Involvement in the full development life cycle of projects. Working as a part of a team as well as on your own initiative.
+    										<br>
+    										- Facilitate in the decision-making processes with team members both in terms of new system development and enhancement to current systems Skills <strong>Required Experience required </strong> 2-4 years.
+    										<br>
+    										- Strong knowledge and 2+ years of experience in JavaScript and the Angular 2+ Framework.
+    										<br>
+    										- Experience of full software development life cycle and Agile Strong verbal & written skills required to interact with global teams. Highly motivated, analytical thinking individual.
+    										<br>
+    										- Exposure to basic experience in WPF is desirable. Since this role involves working closely with users, the ideal candidate would have Knowledge of Relational database/SQL.
+    										<br>
+    										- Ability to multi-task and work against deadlines/priorities.
+    										<br>
+    										- Sense of ownership and desire to take on an expanded role over time. Eager to work with new technologies and apply them towards enterprise-level data solutions.
+    										<br>
+    										- Capable of working with a global team and thriving in a team development environment. Advanced problem-solving skills and the ability to deal with real world business issues.
+    									</p>
+    								</li>
+    							</ul>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+
+    			<div class="col-md-12  pad-20 col-12 pad-xs-0 mB-xs-20 pad-sm-10">
+    				<div id="accordion" class="accordion">
+    					<div class="card mbottom-0 border-n b-shadow">
+    						<div class="card-header collapsed  border-n pad-20 pad-sm-10" data-toggle="collapse" data-parent="#accordion" href="#card5">
+    							<a class="card-title text-white font-20 font-sm-15">
+    								<h4><strong> UI UX Designer / Developer</strong></h4>
+    							</a>
+    							<h6 class="card-title text-white  mbottom-0 font-sm-12">Location : <span>
+    									Bangalore</span></h6>
+    						</div>
+    						<div id="card5" class="card-body collapse pad-sm-0" data-parent="#accordion">
+    							<ul class="job text-lightgrey">
+    								<li>3 - 7 Years Experience.</li>
+    								<li>
+    									Job description: UI UX Designer Responsibilities:
+    									<br>
+    									-> Developing and conceptualizing a comprehensive UI/UX design strategy for the
+    									brand.
+    									<br>
+    									-> Testing UI elements such as CTAs, banners, page layouts, page designs, page flows,
+    									and target links for landing pages.
+    									<br>
+    									-> Collaborating with the marketing team, and internal and external designers to
+    									ensure the creation and delivery of tailored experiences for the digital user.
+    									<br>
+    									-> Providing advice and guidance on the implementation of UX research methodologies
+    									and testing activities in order to analyze and predict user behavior.
+    									<br>
+    									-> Adhering to style standards on typography and graphic design.
+    									<br>
+    									-> Work with other developers to ensure that the website is functional and visually
+    									appealing.
+    									<br>
+    									-> Plan the layout of the website.
+    									<br>
+    									-> Ensure that the website is optimized for various devices.
+    									<br>
+    									-> Use analytics to test client enjoyment.
+    								</li>
+    								<li>
+    									A Bachelor's degree and a minimum of 2 years’ UI/UX design experience for digital products
+    									or services.
+    								</li>
+    							</ul>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    		<div class="col-md-6 col-sm-6 pad-sm-10">
+					<div class="col-md-12 pad-20 col-12 pad-xs-0 mB-xs-20 pad-sm-10">
+    				<div id="accordion" class="accordion">
+    					<div class="card mbottom-0 border-n b-shadow">
+    						<div class="card-header collapsed border-n pad-20 pad-sm-10" data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+    							<a class="card-title text-white font-20 font-sm-15">
+    								<h4><strong>Senior Software Engineer - Java Full Stack Developer</strong></h4>
+    							</a>
+    							<h5 class="card-title text-white  mbottom-0 font-sm-12">Location : <span>Bangalore</span></h5>
+    						</div>
+    						<div id="collapse3" class="card-body collapse pad-sm-0" data-parent="#accordion">
+    							<ul class="job text-lightgrey">
+    								<li>Job description: Fullstack developer focuses on Developing and maintaining Product with cutting edge technology
+    									which matches trending industry standards, responsible for building stable product with micro-services freamwork and follow Agile and DevOps ways-of-working.</li>
+    								<li> Required qualifications to be successful in this role:
+    									<ul>
+    										<li>Member will be involved in Developing and maintaining Product which matches
+    											industry standards.</li>
+    										<li>Member will be Responsible for implementing the new features as per the
+    											requirement.</li>
+    										<li>Member is expected to Build and consume RESTful APIsand exposed to Java
+    											Springboot</li>
+    										<li>Knowledge of RESTful Web Services, XML, JSON. Documenting of Webservices using
+    											Swagger.</li>
+    										<li>Must have worked on micro-services applications, containerization of applications.</li>
+    										<li>Experienced Software Engineer with 3 to 5 years experience in Enterprise Software
+    											Development</li>
+    										<li>Have an understanding of agile software development life cycle processes with DevOps experience</li>
+    										<li>Good to have strong understanding & working experience on either of the Public Cloud like AWS or Azure</li>
+    										<li>Basic understanding of front-end technologies such as HTML5, Angular JS and CSS3</li>
+    										<li>Creating database schemas that represent and support business processes (NoSql Mongo)</li>
+    										<li>Implementing automated testing platforms and unit tests ( JUNIT or similar)</li>
+    										<li>Proficient understanding of code versioning tools, such as Git</li>
+    										<li>Understanding fundamental design principles behind a scalable application</li>
+    									</ul>
+    								</li>
+    							</ul>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col-md-12 pad-20 col-12 pad-xs-0 mB-xs-20 pad-sm-10">
+    				<div id="accordion" class="accordion">
+    					<div class="card mbottom-0 border-n b-shadow">
+    						<div class="card-header collapsed border-n pad-20 pad-sm-10" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+    							<a class="card-title text-white font-20 font-sm-15">
+    								<h4><strong>Python Developer ( Fresher ) Requirement.</strong></h4>
+    							</a>
+    							<h6 class="card-title text-white  mbottom-0 font-sm-12">Location : <span>
+    									Bangalore</span></h6>
+    						</div>
+    						<div id="collapse4" class="card-body collapse pad-sm-0" data-parent="#accordion">
+    							<ul class="job text-lightgrey">
+    								<li>ACHYUTAS SOFT PRIVATE LIMITED</li>
+    								<li> 0 - 2 years</li>
+    								<li>
+    									₹ 2,00,000 - ₹ 4,50,000 P.A.
+    								</li>
+    								<li> Job description : We are looking for MTech / MCA / MSC freshers for our product development team
+    									on AI & Analytics Projects <br>
+    									Must have excellent knowledge on OOPS, Data Structures, Algorithms and SQL
+    									knowledge. <br>
+    									Strong Knowledge on Python is mandatory .
+    								</li>
+
+    							</ul>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+
+    			<div class="col-md-12  pad-20 col-12 pad-xs-0 pad-sm-10">
+    				<div id="accordion" class="accordion">
+    					<div class="card mbottom-0 border-n b-shadow">
+    						<div class="card-header collapsed  border-n pad-20 pad-sm-10" data-toggle="collapse" data-parent="#accordion" href="#card6">
+    							<a class="card-title text-white font-20 font-sm-15">
+    								<h4><strong>.Net senior Developer- 5positions</strong></h4>
+    							</a>
+    							<h6 class="card-title text-white  mbottom-0 font-sm-12">Location : <span> Bangalore</span></h6>
+    						</div>
+    						<div id="card6" class="card-body collapse pad-sm-0" data-parent="#accordion">
+    							<ul class="job text-lightgrey">
+    								<li>3 - 6 Years Experience.</li>
+    								<li> Roles and Responsibilities : The resource would be responsible for understanding the domain, technical flow of the
+    									application and accomplish the tasks/new features under agile methodology. Also should be
+    									responsible for writing code, designing, refactoring the code or create services required by
+    									the business.</li>
+    								<li> Desired Candidate Profile : Should have good communication skills, hands on experience with Visual Studio 2013, 2015
+    									.NET Core 3.1, C#, ASP.NET MVC 5 and 6, WEB API 2.0 and above, JQuery, AJAX, Twitter
+    									Bootstraps, AngularJS, ReactJS, Entity Framework are must, strong on OOPS concepts, SQL
+    									Server 2008(writing Stored Procedures, functions, triggers etc..) Knowledge of Azure is
+    									required
+    								</li>
+    							</ul>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </div>
+
+    <div class="col-md-12 ait-business-banner text-xs-center pad-75-150 mTB-50 pad-xs20 text-white mTb-xs-20">
+    	<h3 class="font-bold d-inline-block mbottom-0 know-us-font pad-10 pl-0"><b>Acheivers IT !</b><span>
+    			<h5 class="d-inline-block pad-10 font-xs-12 mbottom-0 know-us-font">for business</h5>
+    		</span>
+		</h3>
+    	<h4 class="font-xs-12 pad-10 pl-0"><strong class="know-us-font">No more dull edges in your company.Make your employees into masters....</strong></h4>
+    	<h5 class="font-xs-12 pad-10 pl-0"><strong class="know-us-font">Nurture talent with instructor-led courses on trending	technologies</strong></h5>
+    	<a class="btn btn-white mT-10 know-us-font" href="javascript:void();" onclick="contactus('business_contact','Business Contact')">BUSINESS CONTACT</a>
+    </div>
+	<div class="Corpoprate">
+		<h2>Our Corpoprate Clients</h2>
+	</div>
+  
+		<div class="container"> 
+    	<div class="row">
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/ui_Development_training.png" alt="HCl"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/php_development_training.png" alt="cognizant"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/angualr_development_training.png" alt="infosys"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/aws_development_training.png" alt="accenture"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/boostrap_development%20.png" alt="oracle"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/react_development_training.png" alt="ibm"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/python_development_traning.png" alt="wipro"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/software_development_training.png" alt="amazon"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/web_development_training.png" alt="flipkart"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/software_training_courses.png" alt="visa"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/new-cisco-logo-png-1.png" alt="cisco"></div>
+    		<div class="col-md-2 col-6 pad-30 text-center our-clients"> <img src="https://www.achieversit.com/assets/images/angularjs_training.png" alt="dell"></div>
+    	</div>
+    </div>
+	</div>
+
+   <div class="container-box rotated position">
+    	<button type="button" class="btn btn-orangered btn-lg turned-button" onclick="contactus('right_sticky_contact_us','Contact Us')">CONTACT US</button>
+    </div>
+
+    <div class="col-md-12 know-us-better pad-20 pad-sm-0 padB-sm-25 text-white">
+    	<div class="container text-center text-md-left pad-30 pad-xs-0 mB-25">
+    		<h1 class="text-white text-center course-titles font-xs-20">KNOW US BETTER FOR YOUR FUTURE ! </h1>
+    		<hr style="border-top: 1px solid #fff!important">
+    		<p class="text-white  text-center know-us-font">
+    			We, AchieversIT are here to assist you in gaining the best deal of knowledge and landing at your dream job.
+    			Fresher or experienced, we always have a hope to hop into new domains and fields to quicken up the pace
+    			in our career growth. AchieversIT is dedicated to its services to enhance your skills to make a better
+    			move towards a better future in your career.
+    		</p>
+    		<div class="footer content know-us-font">
+    			<p class="text-white text-center know-us-font">AchieversIT has been delivering outstanding quality
+    				training in IT sector courses. 8 years of experience in furnishing qualitative training, AchieversIT
+    				has gained its own fame in leading an individual to land at their dream job.</p>
+    			<p class="text-white mbottom-0 text-center know-us-font">Are you looking out for a job or job switch?
+    				Despite the fact that your background relates to technical or non-technical, you can always find a
+    				choice for you with us. AchieversIT is your best training partner to help you move forward in your
+    				career with confidence and ample amount of knowledge. AchieversIT provides different trainings to boost up your vocation, namely :</p>
+    			<ol>
+    				<li>
+    					<dt>Front-end-Course</dt>
+    					<dd>User Interface Development ; Web Interface Development ; Angular Training ; ReactJS
+    						Development ; VueJS Development ; BootStrap Development ; Material Development.</dd>
+    					<ul>
+    						<li>AchieversIT can be listed out as the best UI Development training centre, whereas locates
+    						    UI Development training in Bangalore ; UI Development training in Marathahalli ;
+    							also benefits as UI training online and UI Developer training.</li>
+    						<li>AchieversIT stands out as the best Angular Development training centre, whereas locates
+    							Angular Development training in Bangalore ; Angular training in Marathahalli; also
+    							benefits as Angular training online and Angular online training. Also the courses come
+    							with variations like Angular UI Bootstrap ; AngularJS UI Bootstrap ; Angular JavaScript; JavaScript AngularJS.</li>
+    						<li>AchieversIT is stated as the best ReactJS training centre, whereas locates ReactJS
+    							training in Bangalore ; ReactJS development training in Bangalore; React training in
+    							BTM; ReactJS training in Marathahalli; also benefits as ReactJS training online and ReactJS 
+    							online training ; React training ; React native training.</li>
+    					</ul>
+    				</li>
+    				<li>
+    					<dt>Back-end Courses:</dt>
+    					<dd>Microsoft.NET ; PHP ; Python ; Ruby ; Java </dd>
+    				</li>
+    				<li>
+    					<dt>Mobile Development Courses :</dt>
+    					<dd>Android App Development ; IOS App App Development ; Windows App Development ; Hybrid App Development.</dd>
+    				</li>
+    				<li>
+    					<dt>Full Stack Development Courses :</dt>
+    					<dd>Java Full Stack Training ; Net Full Stack Training ; Node.JS Full Stack Training ; PHP Full
+    						Stack Training ; MEAN Full Stack Training ; MERN Full Stack Training.</dd>
+    				</li>
+    				<li>
+    					<dt>Digital Marketing Courses :</dt>
+    					<dd>Digital Marketing ; Affiliate Marketing ; Email Marketing ; Google Analytics ; Lead
+    						Generation ; Remarketing ; Search Engine Optimization ; SMS Marketing ; Social Media Marketing ; WordPress.</dd>
+    				</li>
+    				<li>
+    					<dt>Database Programming Courses :</dt>
+    					<dd>MySQL Training ; Oracle Training ; Mongo DB Training ; NoSQL Training ; PostgreSQL Training.
+    					</dd>
+    				</li>
+    				<li>
+    					<dt>Project Management Courses :</dt>
+    					<dd> Prince2 Training ; PMP Training ; Six Sigma Training.</dd>
+    				</li>
+    			</ol>
+    			<p class=" font-bold font-20 text-center know-us-font">Apart from imparting skills and knowledge,
+    				AchieversIT comes up with flexible modes of training : </p>
+    			<ol class="know-us-font">
+    				<p>
+    					<li>
+    						Classroom Training in Bangalore
+    					</li>
+    					<li>
+    						Live Virtual Training with Instructor-Led Sessions
+    					</li>
+    					<li>
+    						Self-Study (e-Learning)
+    					</li>
+    					<p>
+    			</ol>
+    			<p class=" font-bold font-20  text-center know-us-font">You can choose your mode of training according to your comfort and achieve your courses with certifications.</p>
+    			<b class="know-us-font">Perks and advantages of learning with AchieversIT :</b>
+    			<ol class="know-us-font">
+    				<li>90 hours of training</li>
+    				<li>Reasonable course fees</li>
+    				<li>200 hours of lab practical sessions under experts’ mentorship</li>
+    				<li>Hands-on experience with case studies with real-time examples</li>
+    				<li>24*7 access and support by the team</li>
+    				<li>Industry experts & Certified trainers</li>
+    				<li>100% placement support</li>
+    				<li>Industry-aligned curriculum with current market trends and needs</li>
+    				<li>Extra hours of inputs for non-technical individuals</li>
+    				<li>Flexible mode of learning</li>
+    			</ol>
+    			<p class="text-center  font-bold font-20 know-us-font">You get to attend JOB-Oriented training with
+    				real-time knowledge and live projects which comes at an affordable price with effective
+    				Instructor-led sessions.</p>
+    			<p class="text-center">We, at AchieversIT strive to deliver our best efforts; and concentrate and help
+    				you in achieving your dream job you always wished for. We are dedicated to deliver excellence and
+    				impart knowledge to the individuals aspiring a career in not only IT sectors but also in various
+    				other fields like Digital Marketing, Project Management etc. Our curriculum for all the courses is
+    				reviewed systematically to keep our candidates at the cutting edges of technologies.</p>
+    		</div>
+    	</div>
+    	 <div class="col-md-12 pad-50 pad-sm-0 B-sm-25 home-form"> 
+    		<div class="container b-shadow pad-20 curriculum-enroll-banner ">
+    			<h3 class="text-white font-weight font-xs-20 know-us-font know-us-font font-bold">Impressed by Us? Enroll Now</h3>
+    			<h6 class="text-white font-xs-12 know-us-font">Structure your learning and get a certificate to prove it.</h6>
+    			<form class="needs-validation" name="impressesByUs" method="post" id="impressesByUs" role="form" novalidate>
+    				<div class="form-row">
+    					<div class="form-group col-md-12 text-center">
+    						<div class="Curriculum-success"></div>
+    					</div>
+    					<div class="form-group col-md-3 know-us-font font-bold">
+    						<label for="validationEmail">EMAIL</label>
+    						<input type="email" class="form-control user-email" id="validationEmail" placeholder="Email" value="" pattern="^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$" name="validationEmail" required>
+    					</div>
+    					<div class="form-group col-md-3 know-us-font font-bold">
+    						<label for="validationPhone">CONTACT NUMBER</label>
+    						<input type="tel" class="form-control user-phone" id="validationPhone" name="validationPhone" placeholder="Conatct Number" value="" pattern="^[6789]\d{9}$" required>
+    					</div>
+    					<div class="form-group col-md-4 know-us-font font-bold captcha-sec" style="display:flex;">
+    						<div class="form-group m-0">
+    							<p class="captImg">
+    								<img  src="https://www.achieversit.com/assets/captcha_images/1623209572.4379.jpg" style="width: 155px; height: 45px; border: 0;" alt=" " />    							</p>
+    						</div>
+    						<div class="form-group cntr">
+    							<a href="javascript:void(0);" title="Click to refresh the image." class="refreshCaptcha" style="text-decoration: none;">
+    								<span style="font-family: Lucida Sans Unicode;margin-left:5px; font-size:26px;">🗘</span>
+    							</a>
+    						</div>
+    						<div class="form-group" style="padding:0px !important;">
+    							<input type="text" class="form-control captcha-input" id="s" name="s" placeholder="Captch text" value="" maxlength="6" required>
+    							<div id="curriculum_captchaerror"></div>
+    						</div>
+    					</div>
+
+    					<div class="col-md-2 know-us-font">
+    						<label class="pad-9"></label>
+    						<button type="submit" class="btn btn-orangered curriculum-enroll d-block" href="#">REACH US</button>
+    					</div>
+    				</div>
+    			</form>
+    		</div>
+    	</div>
+    </div>
+    <span style="display:none;" class="course_name_span">home</span>
+    </body>
+    </html>
+<footer class="page-footer font-small bg-black pad-30">
+
+	<div class="row">
+		<div class="col-md-3 col-sm-12">
+			<div class="mB-10">
+				<img src="https://www.achieversit.com/assets/images/AIT-white.jpg" alt="AcheiversIT">
+			</div>
+			<div>
+				<p class="text-lightgrey justify footer-font">AchieversIT - provides a wide group of opportunities
+					for freshers and Experienced candidate who can develop their skills and build their career opportunities across multiple Companies.</p>
+			</div>
+		</div>
+		<div class="col-md-9">
+			<div class="row">
+				<hr class="clearfix w-100 d-md-none">
+				<div class="col-md-3 col-sm-6  mx-auto pad-20 ">
+					<h5 class="font-weight-bold text-uppercase mt-3 mb-4 footer-font"><b>COMPANY</b></h5>
+					<ul class="list-unstyled m-20">
+						<li>
+							<a href="https://www.achieversit.com/"><b>HOME</b></a>
+						</li>
+						<li>
+							<a href="https://www.achieversit.com/placement-page.html"><b>Placements</b></a>
+						</li>
+						<li>
+							<a href="https://www.achieversit.com/corporate-training-page.html"><b>Corporate Training</b></a>
+						</li>
+						<li>
+							<a href="javascript:void();" onclick="contactus('footer_block_contact_us','Contact Us')"><b>CONTACT US</b></a>
+						</li>
+					</ul>
+				</div>
+				<hr class="clearfix w-100 d-md-none">
+				<div class="col-md-4 col-sm-6 mx-auto pad-20">
+					<h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-white"><b>TRENDING COURSES</b></h5>
+					<ul class="courses ">
+						<li>
+							<a href="https://www.achieversit.com/ui-development-training-course-institute-in-bangalore">UI Development Course</a>
+						</li>
+						<li>
+							<a href="https://www.achieversit.com/angular-training-course-institute-in-bangalore">Angular JS Course</a>
+						</li>
+						<li>
+							<a href="https://www.achieversit.com/react-training-training-course-institute-in-bangalore">React JS Course</a>
+						</li>
+						<li>
+							<a href="https://www.achieversit.com/digital-marketing-training-course-in-bangalore">Digital Marketing Course </a>
+						</li>
+						<li>
+							<a href="https://www.achieversit.com/python-training-course-institute-in-bangalore">Python Course </a>
+						</li>
+					</ul>
+				</div>
+				<hr class="clearfix w-100 d-md-none ">
+				<div class="col-md-4 col-sm-12 pad-10">
+					<h5 class="font-weight-bold text-uppercase mt-3 mb-4 text-white">CONTACT INFO</h5>
+					<ul class="list-unstyled text-white justify">
+						<li class="d-flex">
+							<span class="pad-10 font-12"><i class="fas fa-map-marked-alt font-20"></i></span><span class="pad-5 font-15"> #272, 6th Main, Next to Preksha Montessori , 1st Floor, BTM
+								2nd Stage, Bangalore, India - 560076</span>
+						</li>
+						<li class="d-flex">
+							<span class="pad-10 font-12"><i class="fas fa-phone-volume font-20"></i> </span><span class="pad-10 font-15"> India : +91 8431-040-457</span>
+						</li>
+						<li class="d-flex">
+							<span class="pad-10 font-12"><i class="fas fa-envelope-open-text font-20"></i></span><span class="pad-10 font-15"> info@achieversit.com</span>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<hr>
+
+	<div class="col-md-12  social-icons">
+		<ul class="social-network social-circle">
+			<li><a href="https://www.facebook.com/AchieversITTrainings/" rel="nofollow" class="icoFacebook" title="Facebook" target="_blank"><i class="fab fa-facebook-f "></i></a></li>
+			<li><a href="https://www.linkedin.com/company/achieversit-solutions/?viewAsMember=true" rel="nofollow" class="icoLinkedin" title="Linkedin" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+			<li><a href="https://twitter.com/it_achievers" class="iconTwitter" title="Twitter" rel="nofollow" target="_blank"><i class="fab fa-twitter"></i></a></li>
+			<li><a href="https://in.pinterest.com/Achieversittrainings/" class="iconPinterest" rel="nofollow" title="Pinterest" target="_blank"><i class="fab fa-pinterest-p"></i></a></li>
+			<li><a href="https://www.youtube.com/channel/UCgXhUR82NKEMd3_ZZbefrdA" rel="nofollow" class="iconYoutube" title="Youtube" target="_blank"><i class="fab fa-youtube"></i></a></li>
+		</ul>
+	</div>
+
+	<div class="footer-copyright pt-20" style="display:flex;justify-content:center;align-items:center;margin-bottom:3%;flex-wrap:wrap">
+
+		<div class=" pad-20 text-lightgray  copy-rights ">Copyright © 2020 AchieversIT. All Rights Reserved</div>
+		<div class="justify-content-center text-center">
+			<ul class="foot-xs">
+				<li><a href="https://www.achieversit.com/privacy-policy" class="text-lightgrey">Privacy Policy</a></li>
+				<li><a href="https://www.achieversit.com/terms-of-use" class="text-lightgrey">Terms of use</a></li>
+				<li><a href="https://www.achieversit.com/refund-policy" class="text-lightgrey">Refund Policy</a></li>
+			</ul>
+		</div>
+	</div>
+
+</footer>
+
+<div class="fixed-footer pad-10  d-flex text-center sticky-footer" style="justify-content: center">
+	<div class="d-flex-0">
+		<a href="https://api.whatsapp.com/send?phone=+918217268018&amp;text='Hi, I Need To Book Demo Class in AchieversIT'" class="mx-auto" target="_blank">
+			<i class="fab fa-whatsapp font-40 font-xs-30 font-sm-30  text-light-green"></i>
+		</a>
+	</div>
+
+	<div class="d-flex-0">
+		<a class="mx-auto" href="tel: 8431040457" target="_blank">
+			<i class="fas fa-phone-volume font-40  font-xs-30 font-sm-30 text-lightblue"></i>
+			<span class="font-20 text-white font-sm-15 hidden-xs">Call us on : +91 8431-040-457</span>
+		</a>
+	</div>
+
+	<div class="d-flex-0">
+		<a class="mx-auto" onclick="contactus('request_a_callback','Request a Call Back')">
+			<i class="far fa-envelope font-40 font-xs-30 font-sm-30 text-orangered"></i>
+			<span class="font-20 text-white hidden-xs font-sm-15">Request A Call Back</span>
+		</a>
+	</div>
+</div>
+
+<div class="modal fade bs-modal-sm log-sign" id="myModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+	<div class="modal-dialog modal-sm">
+		<div class="modal-content">
+			<div class="bs-example bs-example-tabs">
+				<ul id="myTab" class="nav nav-tabs">
+					<li id="tab1" class=" active tab-style login-shadow "><a href="#signin" data-toggle="tab">Log In</a></li>
+					<li id="tab2" class=" tab-style "><a href="#signup" data-toggle="tab">Sign Up</a></li>
+				</ul>
+			</div>
+			<div class="modal-body">
+				<div id="myTabContent" class="tab-content">
+					<div class="tab-pane active in" id="signin">
+						<form class="form-horizontal">
+							<fieldset>
+								
+								<div class="group">
+									<input required name="email" class="input" type="text"><span class="highlight"></span><span class="bar"></span>
+									<label class="label" for="date">Email address</label></div>
+								
+								<div class="group">
+									<input required class="input" type="password"><span class="highlight"></span><span class="bar"></span>
+									<label class="label" for="date">Password</label>
+								</div>
+								<em>minimum 6 characters</em>
+								<div class="forgot-link">
+									<a href="#forgot" data-toggle="modal" data-target="#forgot-password"> I forgot	my password</a>
+								</div>
+							
+								<div class="control-group">
+									<label class="control-label" for="signin"></label>
+									<div class="controls">
+										<button id="signin" name="signin" class="btn btn-primary btn-block">Log	In</button>
+									</div>
+								</div>
+							</fieldset>
+						</form>
+					</div>
+					<div class="tab-pane fade" id="signup">
+						<form class="form-horizontal">
+							<fieldset>
+							
+								<div class="group">
+									<input required="" class="input" type="text"><span class="highlight"></span><span class="bar"></span>
+									<label class="label" for="date">First Name</label></div>
+							
+								<div class="group">
+									<input required="" class="input" type="text"><span class="highlight"></span><span class="bar"></span>
+									<label class="label" for="date">Last Name</label></div>
+							
+								<div class="group">
+									<input required="" class="input" type="text"><span class="highlight"></span><span class="bar"></span>
+									<label class="label" for="date">Email</label></div>
+								
+								<div class="group">
+									<input required="" class="input" type="password"><span class="highlight"></span><span class="bar"></span>
+									<label class="label" for="date">Password</label></div>
+								<em>1-8 Characters</em>
+								<div class="group2">
+									<input required="" class="input" type="text"><span class="highlight"></span><span class="bar"></span>
+									<label class="label" for="date">Country</label></div>
+						
+								<div class="control-group">
+									<label class="control-label" for="confirmsignup"></label>
+									<div class="controls">
+										<button id="confirmsignup" name="confirmsignup" class="btn btn-primary btn-block">Sign Up</button>
+									</div>
+								</div>
+							</fieldset>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+<div id="contact-model" class="modal fade" role="dialog">
+	<div class="modal-dialog">
+	
+		<div class="modal-content">
+			<div class="modal-header">
+				<h3 class="modal-title mx-auto know-us-font title-bar" id="leadform"></h3>
+				<button type="button" class="close" data-dismiss="modal" style="margin-left: 0px">×</button>
+			</div>
+			<div class="modal-body">
+				<form class="needs-validation" name="modalcontactform" method="post" id="contact_modal_form" role="form" novalidate>
+					<input type="hidden" class="title" name="lead" value=''>
+					<div class="col-md-12 mb-3 no-padding">
+						<label for="validationName">NAME</label>
+						<input type="text" class="form-control" id="validationName" name="validationName" placeholder="First name" value="" minlength="4" maxlength="30" required>
+					</div>
+					<div class="col-md-12 mb-3 no-padding">
+						<label for="validationEmail">EMAIL</label>
+						<input type="email" class="form-control" id="validationEmail" placeholder="Email" value="" pattern="^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$" name="validationEmail" required>
+					</div>
+					<div class="col-md-12 mb-3 no-padding">
+						<label for="validationPhone">Contact Number</label>
+						<input type="phone" class="form-control" id="validationPhone" name="validationPhone" placeholder="Conatct Number" value="" pattern="^[6789]\d{9}$" required>
+					</div>
+
+					<div class="col-md-12 mb-3 no-padding">
+						<label for="user_msg">Message</label>
+						<textarea class="form-control" id="user_msg" rows="3" placeholder="Your Message" id="validationMessage" name="validationMessage" required></textarea>
+					</div>
+
+					<div class="col-md-12 mb-3 no-padding" style="display:flex;justify-content:center;flex-wrap:wrap">
+						<p class="captImg" style="float:left">
+							<img  src="https://www.achieversit.com/assets/captcha_images/1623209572.4379.jpg" style="width: 155px; height: 45px; border: 0;" alt=" " />						</p>
+						<a href="javascript:void(0);" title="Click to refresh the image." class="refreshCaptcha" style="text-decoration: none;">
+							<span style="font-family: Lucida Sans Unicode;margin-left:5px; font-size:26px;">🗘</span>
+						</a>
+						<input type="tel" class="form-control" style="width:65%; float:right;" id="validationCaptcha" name="form_captcha" placeholder="Captch text" value="" required>
+					
+						<div class="invalidCaptchaData" style="color:red;"></div>
+					</div>
+					<button type="submit" class="btn btn-lg btn-orangered btn-block" id="btnContactUs">Submit Form</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<a href="#" id="scroll" style="display: none;" class="b-shadow"><span></span></a>
+<script src="https://www.achieversit.com/assets/js/jquery.min.js" type="text/javascript"></script>
+<script src="https://www.achieversit.com/assets/js/popper.min.js" type="text/javascript"></script>
+<script src="https://www.achieversit.com/assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://www.achieversit.com/assets/js/all.min.js" type="text/javascript"></script>
+<script src="https://www.achieversit.com/assets/js/main.js" type="text/javascript"></script>
+<script src="https://www.achieversit.com/assets/js/jquery.validate.min.js" type="text/javascript"></script>
+
+
+</body>
+
+</html>
